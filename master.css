@@ -6,6 +6,6 @@
 
 #black {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-color: black;}
 
-#pic1 {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-image: url(file:///C:/repos/Day4/pic1.jpg);}
+#pic1 {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-image: url(file:///C:/repos/Day4/pic1.jpg);background-size: 100%; background-position: center;}
 
-#pic2 {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-image: url(file:///C:/repos/Day4/pic2.jpg);}
+#pic2 {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-image: url(file:///C:/repos/Day4/pic2.jpg);background-size: 100%; background-position: center;}
