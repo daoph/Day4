@@ -1,0 +1,11 @@
+#red {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-color: red;}
+
+#blue {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-color: blue;}
+
+#green {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-color: green;}
+
+#black {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-color: black;}
+
+#pic1 {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-image: url(file:///C:/repos/Day4/pic1.jpg);}
+
+#pic2 {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-image: url(file:///C:/repos/Day4/pic2.jpg);}}
