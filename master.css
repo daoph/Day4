@@ -1,3 +1,9 @@
+
+
+
+
+/*div#all { max-width: 50% }*/
+
 #red {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-color: red;}
 
 #blue {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-color: blue;}
@@ -6,6 +12,10 @@
 
 #black {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-color: black;}
 
-#pic1 {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-image: url(file:///C:/repos/Day4/pic1.jpg);background-size: 100%; background-position: center;}
+#pic1 {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; 
+		background-image: url(file:///C:/repos/Day4/pic1.jpg);background-size: 100%; 
+		background-position: center; background-repeat: no-repeat;}
 
-#pic2 {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; background-image: url(file:///C:/repos/Day4/pic2.jpg);background-size: 100%; background-position: center;}
+#pic2 {border: 1px solid black; height: 10cm; width: 40%; display: inline-block; 
+		background-image: url(file:///C:/repos/Day4/pic2.jpg);background-size: 100%; 
+		background-position: center; background-repeat: no-repeat;}
